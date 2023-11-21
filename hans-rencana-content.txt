@@ -5,6 +5,7 @@ rencana konten hans
   - framework javascript
     - vue
     - react
+    - angular
 - struktur data dasar
 - php frameworks
   - laravel
