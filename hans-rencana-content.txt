@@ -3,6 +3,7 @@ rencana konten hans
 - javascript
   - es6
   - framework javascript
-- php framework
+- struktur data dasar
+- php frameworks
 - interview
 - vlogs
